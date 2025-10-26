@@ -1,27 +1,19 @@
-The Teachings Of Epicurus.
+In 45 B.C., Marcus Tullius Cicero published "On The Ends Of Good And Evil." 
 
-Explained By Lucius Manlius Torquatus, Senator And Military Commander Of The Roman Republic, 
+Cicero wrote that Lucius Manlius Torquatus, Senator and Praetor of the Roman Republic, delivered the following defense of the philosophy of Epicurus.
 
-As Recorded In Marcus Tullius Cicero's "On The Ends Of Good And Evil" In 45 BC
+This text has been adapted into Modern American English based on the translations of Harris Rackham, James Reid, and Charles Yonge.
 
+On October 26, 2025, Epicurean Friends issued this version of the presentation into the public domain.
 
-
-
-
-This presentation has been adapted into Modern American English from the translations of Harris Rackham, James Reid, and Charles Yonge.  
-
-EpicureanFriends.com has issued this version into the public domain on October 24, 2025.
-
-
-
-
+According to Cicero, Torquatus spoke as follows:
 
 
 I will start in the manner approved by Epicurus himself, the author of the system, by examining the essence and quality of the thing that is the object of our inquiry. This is not because I suppose that you are ignorant of it, but because this is the logical method of procedure.
 
 We are inquiring, then, into what is the final and ultimate Good, which all philosophers are agreed must be of such a nature as to be the end to which all other things are means, while it is not itself a means to anything else. This Epicurus finds in Pleasure: Pleasure he holds to be the Chief Good, and Pain he holds to be the Chief Evil.  He sets out to prove this as follows:
 
-Every animal, as soon as it is born, seeks for pleasure, and delights in pleasure as the Chief Good, while it recoils from pain as the Chief Evil, and so far as possible avoids pain. This it does as long as it remains unperverted, at the prompting of Nature's own unbiased and honest verdict.  Based on this evidence, Epicurus refuses to admit any necessity for argument to prove that pleasure is desirable and pain is to be avoided. These facts, he thinks, are perceived by the senses in the same way we perceive that fire is hot, snow is white, and honey is sweet.  None of these things need be proved by elaborate argument - it is enough merely to draw attention to them. For there is a difference, Epicurus holds, between formal logical proof of a thing, and a mere notice or reminder. Formal logical proof is the method for discovering difficult and hidden truths, the notice and reminder is the medthod for indicating matters that are obvious and evident.
+Every animal, as soon as it is born, seeks for pleasure, and delights in pleasure as the Chief Good, while it recoils from pain as the Chief Evil, and so far as possible avoids pain. This it does as long as it remains unperverted, at the prompting of Nature's own unbiased and honest verdict.  Based on this evidence, Epicurus refuses to admit any necessity for argument to prove that pleasure is desirable and pain is to be avoided. These facts, he thinks, are perceived by the senses in the same way we perceive that fire is hot, snow is white, and honey is sweet.  None of these things need be proved by elaborate argument - it is enough merely to draw attention to them. For there is a difference, Epicurus holds, between formal logical proof of a thing, and a mere notice or reminder. Formal logical proof is the method for discovering difficult and hidden truths; notice and reminder is the method for indicating matters that are obvious and evident.
 
 Consider that if you strip mankind of sensation, nothing remains. It follows, then, that Nature herself is the judge of that which is in accordance with or contrary to nature. What does Nature perceive - or what does she judge of - besides pleasure and pain, to guide her actions of desire and of avoidance?
 
@@ -65,7 +57,7 @@ What is more, the complete removal of all pain is the limit of pleasure.  This i
 
 When my father in Athens wanted to air his wit at the expense of the Stoics, he used to tell me that there is in the Ceramicus a statue of Chrysippus, seated and holding forward one of his hands.  This gesture was intended to indicate the delight which Chrysippus used to take in the following little syllogism, which goes like this:
 
--  “Does your hand want anything, while it is in its present condition?"
+- “Does your hand want anything, while it is in its present condition?"
 
 - “No, nothing. 
 
@@ -167,10 +159,14 @@ Thus equipped, the wise man enjoys perpetual pleasure, for there is no moment wh
 
 It is a fine saying of Epicurus that “the Wise Man is but little interfered with by fortune: the great concerns of life, the things that matter, are controlled by his own wisdom and reason.”
 
- Epicurus also said that “no greater pleasure could be derived from a life of infinite duration than is actually afforded by this existence which we know to be finite.”
+Epicurus also said that no greater pleasure could be derived from a life of infinite duration than is actually afforded by this existence, which we know to be finite.
  
 
-Propositional logic, on which your school lays such stress, Epicurus held to be of no effect, either as a guide to practical conduct, or as an aid to thought.  Natural Philosophy, on the other hand, Epicurus deemed all-important. Natural Philosophy explains to us the meaning of terms, the nature of logical reasoning, and the laws of consistency and contradiction.  Secondly, a thorough knowledge of the facts of Nature relieves us of the burden of superstition, frees us from fear of death, and shields us against the disturbing effects of ignorance, which is often in itself a cause of terrifying apprehensions.  
+Propositional logic, on which your school lays such stress, Epicurus held to be of no effect, either as a guide to practical conduct or as an aid to thought.  
+
+Natural Philosophy, on the other hand, Epicurus deemed all-important. Natural Philosophy explains to us the meaning of terms, the nature of logical reasoning, and the laws of consistency and contradiction.  
+
+Secondly, a thorough knowledge of the facts of Nature relieves us of the burden of superstition, frees us from fear of death, and shields us against the disturbing effects of ignorance, which is often in itself a cause of terrifying apprehensions.  
 
 Lastly, to learn Nature's true requirements improves the moral character.
 
@@ -178,17 +174,29 @@ It is only by firmly grasping a well-established scientific system, and observin
 
 On the other hand, without a full understanding of the world of Nature, it is impossible to maintain the truth of our sense-perceptions. Every mental conception has its origin in sensation, and no certain knowledge is possible unless all sensations are judged to be truthful, as the theory of Epicurus teaches that they are. Those who deny the validity of sensation, and say that nothing can be perceived, having excluded the evidence of the senses, are unable even to maintain their own argument. 
 
-By abolishing knowledge and science, such men abolish all possibility of rational life and action. Thus Natural Philosophy supplies courage to face the fear of death, and resolution to resist the terrors of religion.  It supplies peace of mind, for it removes all ignorance of the mysteries of nature; and it supplies self-control, for it explains the nature of the desires and distinguishes their different kinds.  Further, the Canon (or Criterion of Knowledge)  which Epicurus established gives us a method of discerning what is true from what is false.
+By abolishing knowledge and science, such men abolish all possibility of rational life and action. Thus Natural Philosophy supplies courage to face the fear of death, and resolution to resist the terrors of religion.  Natural Philosophy supplies peace of mind, for it removes all ignorance of the mysteries of nature; and it supplies self-control, for it explains the nature of the desires and distinguishes their different kinds.
 
-There remains a topic that is pre-eminently germane to this discussion, and that is the subject of Friendship. Your school maintains that if pleasure is held to be the Chief Good, friendship will cease to exist. 
+Further, the Canon (or Criterion of Knowledge) which Epicurus established gives us a method of discerning what is true from what is false.
 
-In contrast, Epicurus's pronouncement about friendship is that of all the means to happiness that wisdom has devised, none is greater, none more fruitful, and none more delightful than friendship. Nor did he only commend this doctrine by his words, but far more he endorsed it with the example of his own life and conduct. How great a thing is friendship is shown by the mythical stories of antiquity. Review the legends from the remotest ages, and extensive and varied as they are, you will barely find in them three pairs of friends, beginning with Theseus and ending with Orestes. Yet Epicurus in a single house (and a small one at that) maintained a whole company of friends, united by the closest sympathy and affection; and this still goes on today in the Epicurean school.
+There remains a topic that is pre-eminently germane to this discussion, and that is the subject of Friendship. 
+
+Your school maintains that if pleasure is held to be the Chief Good, friendship will cease to exist. 
+
+To the contrary, Epicurus's pronounces that of all the means to happiness that wisdom has devised, none is greater, none more fruitful, and none more delightful than friendship. Nor did Epicurus only commend this doctrine by his words, but far more, he endorsed it with the example of his own life and conduct. 
+
+How great a thing is friendship is shown by the mythical stories of antiquity. Review the legends from the remotest ages, and extensive and varied as they are, you will barely find in them three pairs of friends, beginning with Theseus and ending with Orestes. 
+
+Yet Epicurus in a single house (and a small one at that) maintained a whole company of friends, united by the closest sympathy and affection; and this still goes on today in the Epicurean school.
 
 But to return to our subject, for there is no need of further personal examples, I am aware that the topic of friendship has been treated by Epicureans in three ways:
 
-First, some have denied that pleasures affecting our friends are in themselves to be desired by us in the same degree as we desire our own pleasures. This doctrine is argued by some critics to undermine the foundations of friendship.  However its supporters defend their position, and in my opinion they have no difficulty in making good their position. They argue that friendship can no more be separated from pleasure than can the virtues, which we have discussed already. A solitary, friendless life must be beset by secret dangers and alarms. Hence reason itself advises that we aquire friends, for their possession gives confidence, and a firmly rooted hope of winning pleasure. And just as hatred, jealousy, and contempt are hindrances to pleasure, so friendship is the most trustworthy preserver and also creator of pleasure, both for our friends and for ourselves. Friendship affords us enjoyment in the present, and it inspires us with hope for the near and distant future.
+First, some have denied that pleasures affecting our friends are in themselves to be desired by us in the same degree as we desire our own pleasures. This doctrine is argued by some critics to undermine the foundations of friendship.  However its supporters defend their position, and in my opinion they have no difficulty in making good their position. They argue that friendship can no more be separated from pleasure than can the virtues, which we have discussed already. 
 
-Thus it is not possible to secure uninterrupted pleasure in life without friendship, nor yet to preserve friendship itself unless we love our friends as much as ourselves. Hence this unselfishness exists in friendship, while also friendship is closely linked with our own pleasure. For we rejoice in our friends' joy as much as in our own, and we are equally pained by their sorrows. Therefore the Wise Man will feel exactly the same towards his friends as he does towards himself, and he will exert himself as much for his friends' pleasure as he would for his own. All that has been said about the essential connection of the virtues with pleasure must be repeated about friendship. Epicurus well said, and I give almost his exact words: “The same creed that has given us courage to overcome all fear of everlasting or long-enduring evil in the future has discerned that friendship is our strongest safeguard in this present term of life.”
+A solitary, friendless life must be beset by secret dangers and alarms. Hence reason itself advises that we acquire friends, for their possession gives confidence, and a firmly rooted hope of winning pleasure. And just as hatred, jealousy, and contempt are hindrances to pleasure, so friendship is the most trustworthy preserver and also creator of pleasure, both for our friends and for ourselves. Friendship affords us enjoyment in the present, and it inspires us with hope for the near and distant future.
+
+Thus it is not possible to secure uninterrupted pleasure in life without friendship, nor yet to preserve friendship itself unless we love our friends as much as ourselves. Hence this unselfishness exists in friendship, while also friendship is closely linked with our own pleasure. For we rejoice in our friends' joy as much as in our own, and we are equally pained by their sorrows. 
+
+Therefore the Wise Man will feel exactly the same towards his friends as he does towards himself, and he will exert himself as much for his friends' pleasure as he would for his own. All that has been said about the essential connection of the virtues with pleasure must be repeated about friendship. Epicurus well said, and I give almost his exact words: “The same creed that has given us courage to overcome all fear of everlasting or long-enduring evil in the future has discerned that friendship is our strongest safeguard in this present term of life.”
 
 
 Other Epicureans, though by no means lacking in insight, are less courageous in defying the contemptuous criticisms of the Academy.
@@ -201,10 +209,20 @@ The third view is that wise men have made a sort of compact to love their friend
 
 All these considerations go to prove not only that the theory of friendship is not undermined by the identification of the Chief Good with pleasure, but also that without these considerations no foundation for friendship whatsoever can be found.
 
-If then the doctrine I have set forth is more clear and more luminous than daylight itself; if it is derived entirely from Nature's source; if my whole explanation relies throughout for confirmation on the unbiased and unimpeachable evidence of the senses; if lisping infants, and even dumb animals, prompted by Nature's teaching, can almost find voice to proclaim that there is no welfare but pleasure, no hardship but pain — and their judgment in these matters is neither perverted or biased -
+If then the doctrine I have set forth is more clear and more luminous than daylight itself; if it is derived entirely from Nature's source; if my whole explanation relies throughout for confirmation on the unbiased and unimpeachable evidence of the senses; 
 
-ought we not feel the greatest gratitude to Epicurus, who caught this utterance of Nature's voice, and grasped its meaning so firmly and so fully that he has guided all sane-minded men into the path of peace and happiness, calmness and repose?
+If lisping infants, and even dumb animals, prompted by Nature's teaching, can almost find voice to proclaim that there is no welfare but pleasure, no hardship but pain — and their judgment in these matters is neither perverted or biased -
 
-You smugly allege that Epicurus was uneducated, because he refused to consider any education worthy of the name if it did not educate us in happiness. Was Epicurus to spend his time, as you encourage Triarius and me to do, in perusing the poets, who give us nothing solid and useful, but merely childish amusement? Was Epicurus to occupy himself, like Plato, with music and geometry, arithmetic and astronomy, which - when starting from false premises - cannot be true, and which, moreover - if they were true - would contribute nothing to make our lives better or more pleasant?  Was Epicurus, I say, to study arts like these, and  neglect the master art, so difficult and correspondingly so fruitful, the art of living?
+Ought we not feel the greatest gratitude to Epicurus, who caught this utterance of Nature's voice, and grasped its meaning so firmly and so fully that he has guided all sane-minded men into the path of peace and happiness, calmness and repose?
 
-No! It was not Epicurus who was uneducated.  The truly unwise are those who ask us to go on studying until old age the subjects that we ought to be ashamed that we did not learn when we were children.
+You smugly allege that Epicurus was uneducated, because he refused to consider any education worthy of the name if it did not educate us in happiness. 
+
+Was Epicurus to spend his time, as you encourage Triarius and me to do, in perusing the poets, who give us nothing solid and useful, but merely childish amusement? 
+
+Was Epicurus to occupy himself, like Plato, with music and geometry, arithmetic and astronomy, which - when starting from false premises - cannot be true, and which, moreover - if they were true - would contribute nothing to make our lives better or more pleasant?  
+
+Was Epicurus, I say, to study arts like these, and neglect the master art, so difficult and correspondingly so fruitful, the art of living?
+
+No.
+
+It was not Epicurus who was uneducated.  The truly unwise are those who ask us to go on studying until old age the subjects that we ought to be ashamed that we did not learn when we were children.
